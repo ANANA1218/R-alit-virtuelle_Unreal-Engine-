@@ -867,3 +867,29 @@ Recommended: 30.0.101.1340
 [2023.03.15-14.33.03:137][654]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/BP_CharacterD91C9B7546434895205859B15F357B75.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset'
 [2023.03.15-14.33.03:170][654]AssetCheck: New page: Asset Save: BP_Character
 [2023.03.15-14.33.03:171][654]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Character/BP_Character.BP_Character
+[2023.03.15-14.36.29:904][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Character/BP_Character" FILE="../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset" SILENT=true
+[2023.03.15-14.36.29:984][604]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Character
+[2023.03.15-14.36.29:986][604]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/BP_CharacterCE0FA4C1499D3F4AFFA0BF874C61B2FA.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset'
+[2023.03.15-14.36.30:037][604]AssetCheck: New page: Asset Save: BP_Character
+[2023.03.15-14.36.30:038][604]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Character/BP_Character.BP_Character
+[2023.03.15-14.36.30:796][643]BlueprintLog: New page: Compile BP_Character
+[2023.03.15-14.36.30:812][643]LogBlueprint: Error: [AssetLog] D:\H3 HITEMA\realite virtuelle\Unreal-Machine\Content\Blueprint\Character\BP_Character.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Float (double-precision)' on ' float <= float '
+[2023.03.15-14.36.30:813][643]LogBlueprint: Error: [AssetLog] D:\H3 HITEMA\realite virtuelle\Unreal-Machine\Content\Blueprint\Character\BP_Character.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Float (double-precision)' on ' float <= float '
+[2023.03.15-14.36.30:813][643]LogBlueprint: Error: [AssetLog] D:\H3 HITEMA\realite virtuelle\Unreal-Machine\Content\Blueprint\Character\BP_Character.uasset: [Compiler] ' float <= float ' could not successfuly expand pins!
+[2023.03.15-14.36.30:961][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2023.03.15-14.37.03:207][839]BlueprintLog: New page: Compile BP_Character
+[2023.03.15-14.37.03:223][839]LogBlueprint: Error: [AssetLog] D:\H3 HITEMA\realite virtuelle\Unreal-Machine\Content\Blueprint\Character\BP_Character.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Float (double-precision)' on ' float <= float '
+[2023.03.15-14.37.03:223][839]LogBlueprint: Error: [AssetLog] D:\H3 HITEMA\realite virtuelle\Unreal-Machine\Content\Blueprint\Character\BP_Character.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Float (double-precision)' on ' float <= float '
+[2023.03.15-14.37.03:223][839]LogBlueprint: Error: [AssetLog] D:\H3 HITEMA\realite virtuelle\Unreal-Machine\Content\Blueprint\Character\BP_Character.uasset: [Compiler] ' float <= float ' could not successfuly expand pins!
+[2023.03.15-14.37.03:384][839]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2023.03.15-14.37.24:959][974]BlueprintLog: New page: Compile BP_Character
+[2023.03.15-14.37.25:135][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.03.15-14.37.33:173][382]LogEditorTransaction: Undo Create Pin Link
+[2023.03.15-14.37.35:186][442]LogEditorTransaction: Undo Delete current selection
+[2023.03.15-14.38.00:911][739]BlueprintLog: New page: Compile BP_Character
+[2023.03.15-14.38.01:089][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.03.15-14.38.01:990][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Character/BP_Character" FILE="../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset" SILENT=true
+[2023.03.15-14.38.02:063][767]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Character
+[2023.03.15-14.38.02:063][767]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/BP_CharacterB0A028294A8A5FDD4BD5439A482B9138.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset'
+[2023.03.15-14.38.02:089][767]AssetCheck: New page: Asset Save: BP_Character
+[2023.03.15-14.38.02:089][767]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Character/BP_Character.BP_Character
