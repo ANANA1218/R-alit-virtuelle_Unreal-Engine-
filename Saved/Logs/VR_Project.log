@@ -1880,3 +1880,213 @@ Recommended: 30.0.101.1340
 [2023.03.15-15.15.38:928][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
 [2023.03.15-15.15.38:948][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
 [2023.03.15-15.15.39:008][273]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.03.15-15.19.11:667][ 94]LogDerivedDataCache: C:/Users/kiman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.248 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.15-15.24.21:829][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Character/BP_Character" FILE="../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset" SILENT=true
+[2023.03.15-15.24.21:907][380]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Character
+[2023.03.15-15.24.21:908][380]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/BP_Character17655C03442756BBEDAA7784E32A5861.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset'
+[2023.03.15-15.24.21:965][380]AssetCheck: New page: Asset Save: BP_Character
+[2023.03.15-15.24.21:965][380]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Character/BP_Character.BP_Character
+[2023.03.15-15.24.23:313][396]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.15-15.24.23:328][396]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.15-15.24.23:336][396]LogPlayLevel: [PlayLevel] Compiling BP_Character before play...
+[2023.03.15-15.24.23:356][396]LogBlueprint: Error: [AssetLog] D:\H3 HITEMA\realite virtuelle\Unreal-Machine\Content\Blueprint\Character\BP_Character.uasset: [Compiler] Could not find a function named "tick 1" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Tick 1
+[2023.03.15-15.24.23:640][396]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2023.03.15-15.24.23:645][396]LogPlayLevel: PlayLevel: Blueprint regeneration took 315 ms (1 blueprints)
+[2023.03.15-15.24.23:653][396]BlueprintLog: Warning: Blueprint failed to compile:  BP_Character
+[2023.03.15-15.24.23:655][396]LogCustomDialog: Dialog displayed:
+[2023.03.15-15.24.27:672][396]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.03.15-15.24.42:488][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Character/BP_Character" FILE="../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset" SILENT=true
+[2023.03.15-15.24.42:576][915]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Character
+[2023.03.15-15.24.42:577][915]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/BP_Character0A9F06A74BA249B1507DF0B4D0E128B4.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset'
+[2023.03.15-15.24.42:629][915]AssetCheck: New page: Asset Save: BP_Character
+[2023.03.15-15.24.42:629][915]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Character/BP_Character.BP_Character
+[2023.03.15-15.24.45:742][996]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.15-15.24.45:758][996]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.15-15.24.45:764][996]LogPlayLevel: [PlayLevel] Compiling BP_Character before play...
+[2023.03.15-15.24.46:031][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.03.15-15.24.46:033][996]LogPlayLevel: PlayLevel: Blueprint regeneration took 274 ms (1 blueprints)
+[2023.03.15-15.24.46:034][996]PIE: New page: PIE session: MainMenu (15 mars 2023 à 17:24:46)
+[2023.03.15-15.24.46:034][996]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2023.03.15-15.24.46:036][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002444s)
+[2023.03.15-15.24.46:036][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002612s)
+[2023.03.15-15.24.46:037][996]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.15-15.24.46:037][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-15.24.46:038][996]LogAIModule: Creating AISystem for world MainMenu
+[2023.03.15-15.24.46:038][996]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2023.03.15-15.24.46:146][996]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2023.03.15-15.24.46:148][996]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.03.15-15.24.46:148][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-15.24.46:148][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-15.24.46:148][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-15.24.46:148][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-15.24.46:148][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-15.24.46:148][996]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.15-15.24.46:148][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-15.24.46:148][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-15.24.46:149][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-15.24.46:149][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-15.24.46:149][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-15.24.46:156][996]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.15-15.24.46:197][996]LogAudioMixer: Display: Using Audio Hardware Device Casque (Nanami)
+[2023.03.15-15.24.46:197][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-15.24.46:197][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-15.24.46:197][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-15.24.46:201][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.03.15-15.24.46:201][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.03.15-15.24.46:205][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.03.15-15.24.46:205][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.03.15-15.24.46:205][996]LogInit: FAudioDevice initialized.
+[2023.03.15-15.24.46:205][996]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2023.03.15-15.24.46:231][996]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.15-15.24.46:231][996]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.03.15-16.24.46
+[2023.03.15-15.24.46:232][996]LogWorld: Bringing up level for play took: 0.000879
+[2023.03.15-15.24.46:246][996]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.03.15-15.24.46:251][996]PIE: Server logged in
+[2023.03.15-15.24.46:253][996]PIE: Play in editor total start time 0,494 seconds.
+[2023.03.15-15.24.48:388][ 10]LogNet: Browse: /Game/Asian_Village/maps/Asian_Village_Demo
+[2023.03.15-15.24.48:390][ 10]LogLoad: LoadMap: /Game/Asian_Village/maps/Asian_Village_Demo
+[2023.03.15-15.24.48:391][ 10]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2023.03.15-15.24.48:392][ 10]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.24.48:392][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-15.24.48:513][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-15.24.48:518][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.03.15-15.24.49:100][ 10]LogAudio: Display: Audio Device (ID: 16) registered with world 'Asian_Village_Demo'.
+[2023.03.15-15.24.49:100][ 10]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.15-15.24.49:100][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-15.24.49:100][ 10]LogAIModule: Creating AISystem for world Asian_Village_Demo
+[2023.03.15-15.24.49:102][ 10]LogPlayLevel: PIE: World Init took: (0.002127s)
+[2023.03.15-15.24.49:102][ 10]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.15-15.24.49:423][ 10]LogWorld: Bringing World /Game/Asian_Village/maps/UEDPIE_0_Asian_Village_Demo.Asian_Village_Demo up for play (max tick rate 0) at 2023.03.15-16.24.49
+[2023.03.15-15.24.49:427][ 10]LogWorld: Bringing up level for play took: 0.324303
+[2023.03.15-15.24.49:435][ 10]LogLoad: Took 1.044572 seconds to LoadMap(/Game/Asian_Village/maps/Asian_Village_Demo)
+[2023.03.15-15.24.52:125][ 23]LogBlueprintUserMessages: [BP_Character_C_0] 90.0
+[2023.03.15-15.24.53:631][ 30]LogBlueprintUserMessages: [BP_Character_C_0] 80.0
+[2023.03.15-15.24.57:049][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-15.24.57:049][ 48]LogWorld: BeginTearingDown for /Game/Asian_Village/maps/UEDPIE_0_Asian_Village_Demo
+[2023.03.15-15.24.57:057][ 48]LogWorld: UWorld::CleanupWorld for Asian_Village_Demo, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.24.57:104][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-15.24.57:341][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-15.24.57:363][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-15.24.57:540][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-15.24.57:540][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.03.15-15.24.57:545][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.03.15-15.24.57:618][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2023.03.15-15.24.57:659][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.03.15-15.25.46:876][308]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.15-15.27.51:074][999]LogSlate: Window 'Message Log' being destroyed
+[2023.03.15-15.27.51:102][999]LogSlate: Window 'Message Log' being destroyed
+[2023.03.15-15.28.02:261][273]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.28.02:261][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-15.28.02:280][273]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.28.02:280][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-15.33.46:842][153]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.15-15.39.25:604][861]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2023.03.15-15.39.25:604][861]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4744
+[2023.03.15-15.39.26:596][863]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{856ac2fd-55e4-46fc-8681-1a929e2f0f7e}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=848.43
+[2023.03.15-15.39.26:597][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.15-15.39.26:631][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.15-15.40.19:992][ 22]LogSlate: Window 'Health' being destroyed
+[2023.03.15-15.40.20:007][ 22]LogSlate: Window 'Health' being destroyed
+[2023.03.15-15.40.20:054][ 22]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.20:055][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-15.40.20:086][ 22]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.20:086][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-15.40.21:820][ 95]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.21:822][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-15.40.25:176][122]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2023.03.15-15.40.25:195][122]LogStall: Shutdown...
+[2023.03.15-15.40.25:218][122]LogStall: Shutdown complete.
+[2023.03.15-15.40.25:344][122]LogSlate: Window 'VR_Project - Unreal Editor' being destroyed
+[2023.03.15-15.40.26:008][123]Cmd: QUIT_EDITOR
+[2023.03.15-15.40.26:008][123]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.15-15.40.26:023][123]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.15-15.40.26:024][123]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.03.15-15.40.26:025][123]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.03.15-15.40.26:705][123]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.15-15.40.26:705][123]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.15-15.40.26:705][123]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2023.03.15-15.40.26:723][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.15-15.40.26:728][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.15-15.40.27:068][123]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.15-15.40.27:095][123]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.03.15-15.40.27:096][123]LogExit: Preparing to exit.
+[2023.03.15-15.40.27:448][123]LogUObjectHash: Compacting FUObjectHashTables data took  27.18ms
+[2023.03.15-15.40.27:474][123]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:476][123]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:520][123]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:524][123]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:525][123]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:525][123]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:525][123]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:525][123]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:527][123]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:527][123]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.27:528][123]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.15-15.40.28:522][123]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.28:524][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:524][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:524][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:524][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:524][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:524][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:524][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:524][123]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.28:527][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:527][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:527][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:527][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:527][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:527][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:527][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:527][123]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.28:529][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:529][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:529][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:529][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:529][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:529][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:529][123]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.15-15.40.28:529][123]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.28:532][123]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.28:534][123]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.28:538][123]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.28:570][123]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-15.40.28:747][123]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.03.15-15.40.28:870][123]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.03.15-15.40.28:876][123]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.03.15-15.40.28:948][123]LogExit: Editor shut down
+[2023.03.15-15.40.28:970][123]LogExit: Transaction tracking system shut down
+[2023.03.15-15.40.31:195][123]LogExit: Object subsystem successfully closed.
+[2023.03.15-15.40.31:226][123]LogShaderCompilers: Display: ================================================
+[2023.03.15-15.40.31:226][123]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.15-15.40.31:226][123]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.15-15.40.31:226][123]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.15-15.40.31:227][123]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.15-15.40.31:229][123]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.15-15.40.31:229][123]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.15-15.40.31:229][123]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.15-15.40.31:229][123]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.15-15.40.31:229][123]LogShaderCompilers: Display: ================================================
+[2023.03.15-15.40.31:315][123]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.03.15-15.40.31:598][123]LogModuleManager: Shutting down and abandoning module SequencerWidgets (886)
+[2023.03.15-15.40.31:598][123]LogModuleManager: Shutting down and abandoning module BlueprintGraph (884)
+[2023.03.15-15.40.31:598][123]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (882)
+[2023.03.15-15.40.31:598][123]LogModuleManager: Shutting down and abandoning module Voice (880)
+[2023.03.15-15.40.31:599][123]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (878)
+[2023.03.15-15.40.31:599][123]LogModuleManager: Shutting down and abandoning module AddContentDialog (876)
+[2023.03.15-15.40.31:611][123]LogModuleManager: Shutting down and abandoning module WidgetCarousel (875)
+[2023.03.15-15.40.31:612][123]LogModuleManager: Shutting down and abandoning module SubobjectEditor (872)
+[2023.03.15-15.40.31:612][123]LogModuleManager: Shutting down and abandoning module SceneOutliner (870)
+[2023.03.15-15.40.31:612][123]LogModuleManager: Shutting down and abandoning module StatusBar (868)
+[2023.03.15-15.40.31:612][123]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (866)
+[2023.03.15-15.40.31:612][123]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2023.03.15-15.40.31:613][123]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2023.03.15-15.40.31:614][123]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2023.03.15-15.40.31:615][123]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (858)
+[2023.03.15-15.40.31:615][123]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2023.03.15-15.40.31:615][123]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (854)
+[2023.03.15-15.40.31:615][123]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (852)
+[2023.03.15-15.40.31:615][123]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (850)
+[2023.03.15-15.40.31:617][123]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (848)
+[2023.03.15-15.40.31:619][123]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (846)
