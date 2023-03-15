@@ -893,3 +893,107 @@ Recommended: 30.0.101.1340
 [2023.03.15-14.38.02:063][767]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/BP_CharacterB0A028294A8A5FDD4BD5439A482B9138.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset'
 [2023.03.15-14.38.02:089][767]AssetCheck: New page: Asset Save: BP_Character
 [2023.03.15-14.38.02:089][767]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Character/BP_Character.BP_Character
+[2023.03.15-14.38.55:125][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.03.15-14.38.56:279][ 97]LogSavePackage: Moving output files for package: /Game/Asian_Village/maps/Asian_Village_Demo
+[2023.03.15-14.38.56:280][ 97]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/Asian_Village_Demo1689B300452D9075D7926184F7BBB028.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Asian_Village/maps/Asian_Village_Demo.umap'
+[2023.03.15-14.38.56:300][ 97]LogFileHelpers: No new changes to save!
+[2023.03.15-14.38.56:329][ 97]AssetCheck: New page: Asset Save: Asian_Village_Demo
+[2023.03.15-14.38.56:329][ 97]LogContentValidation: Display: Validating World /Game/Asian_Village/maps/Asian_Village_Demo.Asian_Village_Demo
+[2023.03.15-14.39.10:253][157]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.15-14.39.10:287][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-14.39.10:287][157]PIE: New page: PIE session: Asian_Village_Demo (15 mars 2023 à 16:39:10)
+[2023.03.15-14.39.10:288][157]LogPlayLevel: Creating play world package: /Game/Asian_Village/maps/UEDPIE_0_Asian_Village_Demo
+[2023.03.15-14.39.11:075][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.786407s)
+[2023.03.15-14.39.11:075][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asian_Village/maps/Asian_Village_Demo.Asian_Village_Demo to /Game/Asian_Village/maps/UEDPIE_0_Asian_Village_Demo.Asian_Village_Demo (0.786692s)
+[2023.03.15-14.39.11:075][157]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.15-14.39.11:075][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-14.39.11:076][157]LogAIModule: Creating AISystem for world Asian_Village_Demo
+[2023.03.15-14.39.11:077][157]LogPlayLevel: PIE: World Init took: (0.002586s)
+[2023.03.15-14.39.11:137][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.03.15-14.39.11:139][157]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.15-14.39.11:139][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-14.39.11:139][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-14.39.11:139][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-14.39.11:139][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-14.39.11:139][157]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-14.39.11:139][157]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.15-14.39.11:139][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-14.39.11:139][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-14.39.11:140][157]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-14.39.11:140][157]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-14.39.11:140][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-14.39.11:144][157]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.15-14.39.11:174][157]LogAudioMixer: Display: Using Audio Hardware Device Casque (Nanami)
+[2023.03.15-14.39.11:174][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-14.39.11:174][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-14.39.11:174][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-14.39.11:176][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.03.15-14.39.11:176][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.03.15-14.39.11:179][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.03.15-14.39.11:179][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.03.15-14.39.11:179][157]LogInit: FAudioDevice initialized.
+[2023.03.15-14.39.11:179][157]LogAudio: Display: Audio Device (ID: 4) registered with world 'Asian_Village_Demo'.
+[2023.03.15-14.39.11:203][157]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.15-14.39.11:448][157]LogWorld: Bringing World /Game/Asian_Village/maps/UEDPIE_0_Asian_Village_Demo.Asian_Village_Demo up for play (max tick rate 60) at 2023.03.15-15.39.11
+[2023.03.15-14.39.11:451][157]LogWorld: Bringing up level for play took: 0.248023
+[2023.03.15-14.39.11:455][157]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.03.15-14.39.11:462][157]PIE: Server logged in
+[2023.03.15-14.39.11:464][157]PIE: Play in editor total start time 1,177 seconds.
+[2023.03.15-14.39.46:347][293]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.15-14.39.46:347][293]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=4
+[2023.03.15-14.39.53:128][322]LogBlueprintUserMessages: [BP_Character_C_0] 90.0
+[2023.03.15-14.39.55:613][336]LogBlueprintUserMessages: [BP_Character_C_0] 80.0
+[2023.03.15-14.39.57:718][348]LogBlueprintUserMessages: [BP_Character_C_0] 70.0
+[2023.03.15-14.40.08:255][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-14.40.08:255][405]LogWorld: BeginTearingDown for /Game/Asian_Village/maps/UEDPIE_0_Asian_Village_Demo
+[2023.03.15-14.40.08:258][405]LogWorld: UWorld::CleanupWorld for Asian_Village_Demo, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-14.40.08:297][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-14.40.08:610][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-14.40.08:640][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-14.40.08:750][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-14.40.08:751][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.15-14.40.08:760][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.15-14.40.08:774][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-14.40.08:940][405]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2023.03.15-14.40.09:208][406]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.03.15-14.40.56:316][586]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.15-14.41.01:441][586]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.03.15-14.41.01:465][586]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.03.15-14.41.01:479][586]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.03.15-14.41.01:520][587]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.03.15-14.41.13:580][650]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Health
+[2023.03.15-14.41.13:607][650]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.03.15-14.41.16:800][663]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Health.Health
+[2023.03.15-14.41.16:810][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-14.41.17:034][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-14.41.17:072][663]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.03.15-14.41.18:185][663]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.15-14.41.18:185][663]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.15-14.41.18:516][663]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.03.15-14.43.17:076][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Health" FILE="../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Health.uasset" SILENT=true
+[2023.03.15-14.43.17:090][195]LogSavePackage: Moving output files for package: /Game/Health
+[2023.03.15-14.43.17:090][195]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/HealthF11256D9441484DC717D428515F3E1FB.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Health.uasset'
+[2023.03.15-14.43.17:147][195]AssetCheck: New page: Asset Save: Health
+[2023.03.15-14.43.17:147][195]LogContentValidation: Display: Validating WidgetBlueprint /Game/Health.Health
+[2023.03.15-14.43.18:207][202]LogSlate: Window 'Health' being destroyed
+[2023.03.15-14.43.18:232][202]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-14.43.18:232][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-14.43.18:269][202]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-14.43.18:269][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-14.43.22:863][226]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Health.Health
+[2023.03.15-14.43.22:864][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-14.43.23:099][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-14.43.25:062][226]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.03.15-14.43.25:062][226]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.15-14.43.25:062][226]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.15-14.43.25:084][226]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002449s (0.220834s overbudget)
+[2023.03.15-14.44.32:789][530]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.15-14.45.19:569][724]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.15-14.49.02:278][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Health" FILE="../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Health.uasset" SILENT=true
+[2023.03.15-14.49.02:293][623]LogSavePackage: Moving output files for package: /Game/Health
+[2023.03.15-14.49.02:295][623]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/HealthFE73BF93480AE98B93C4C0909EFBA9B9.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Health.uasset'
+[2023.03.15-14.49.02:357][623]AssetCheck: New page: Asset Save: Health
+[2023.03.15-14.49.02:357][623]LogContentValidation: Display: Validating WidgetBlueprint /Game/Health.Health
+[2023.03.15-14.49.03:256][630]BlueprintLog: New page: Compile Health
+[2023.03.15-14.49.03:547][630]LogUObjectHash: Compacting FUObjectHashTables data took   9.98ms
+[2023.03.15-14.49.14:776][702]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
