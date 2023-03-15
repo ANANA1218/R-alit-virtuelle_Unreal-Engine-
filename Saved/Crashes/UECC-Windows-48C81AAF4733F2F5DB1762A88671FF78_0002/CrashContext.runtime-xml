@@ -25,7 +25,7 @@
 		<EngineModeEx>Vanilla</EngineModeEx>
 		<DeploymentName />
 		<EngineVersion>5.0.3-20979098+++UE5+Release-5.0</EngineVersion>
-		<CommandLine>&quot;D:/H3 HITEMA/realite virtuelle/Unreal-Machine/VR_Project.uproject&quot;</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>fr-FR</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.0-CL-20979098</BuildVersion>
