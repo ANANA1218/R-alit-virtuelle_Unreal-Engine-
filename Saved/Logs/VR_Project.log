@@ -997,3 +997,18 @@ Recommended: 30.0.101.1340
 [2023.03.15-14.49.03:256][630]BlueprintLog: New page: Compile Health
 [2023.03.15-14.49.03:547][630]LogUObjectHash: Compacting FUObjectHashTables data took   9.98ms
 [2023.03.15-14.49.14:776][702]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.15-14.49.54:300][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Health" FILE="../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Health.uasset" SILENT=true
+[2023.03.15-14.49.54:312][845]LogSavePackage: Moving output files for package: /Game/Health
+[2023.03.15-14.49.54:313][845]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/HealthE60E0E0D414C0AADBF37A69C25CB3E04.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Health.uasset'
+[2023.03.15-14.49.54:348][845]AssetCheck: New page: Asset Save: Health
+[2023.03.15-14.49.54:348][845]LogContentValidation: Display: Validating WidgetBlueprint /Game/Health.Health
+[2023.03.15-14.49.54:920][850]BlueprintLog: New page: Compile Health
+[2023.03.15-14.49.55:202][850]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2023.03.15-14.52.08:290][252]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.15-14.53.04:772][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Character/BP_Character" FILE="../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset" SILENT=true
+[2023.03.15-14.53.04:857][626]LogSavePackage: Moving output files for package: /Game/Blueprint/Character/BP_Character
+[2023.03.15-14.53.04:858][626]LogSavePackage: Moving '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Saved/BP_CharacterE08D8F1B485344D444C514A5C717726C.tmp' to '../../../../../H3 HITEMA/realite virtuelle/Unreal-Machine/Content/Blueprint/Character/BP_Character.uasset'
+[2023.03.15-14.53.04:907][626]AssetCheck: New page: Asset Save: BP_Character
+[2023.03.15-14.53.04:907][626]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Character/BP_Character.BP_Character
+[2023.03.15-14.53.05:247][643]BlueprintLog: New page: Compile BP_Character
+[2023.03.15-14.53.05:467][643]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
